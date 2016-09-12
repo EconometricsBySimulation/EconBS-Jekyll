@@ -57,19 +57,3 @@ source: Ciudad Seva
 - y yo, un uno en la cifra del divisor
 - social somos el duelo a muerte que se acerca fatal.
 
-- Cuando las multitudes corran alborotadas
-- dejando atrás cenizas de injusticias quemadas,
-- y cuando con la tea de las siete virtudes,
-- tras los siete pecados, corran las multitudes,
-- contra ti, y contra todo lo injusto y lo inhumano,
-- yo iré en medio de ellas con la tea en la mano.
-
-{% highlight ruby %}
-def show
-  @widget = Widget(params[:id])
-  respond_to do |format|
-    format.html # show.html.erb
-    format.json { render json: @widget }
-  end
-end
-{% endhighlight %}

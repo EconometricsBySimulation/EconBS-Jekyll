@@ -12,6 +12,15 @@ author: Alex Gil
 
 ---
 
+## Initialization
+
+Launch jekyll
+
+~~~ bash
+$ bundle exec jekyll serve 
+~~~
+
+
 ## Prerequisites
 
 This documentation was built with beginners in mind, but has the necessary information for more seasoned producers.
@@ -40,6 +49,15 @@ That's it. To see if Ed is working properly we will take advantage of Jekyll's b
 
 ~~~ bash
 $ jekyll serve
+~~~
+
+R code.
+
+~~~ R
+x <- 3
+for (i in 1:200) {
+  print(i)
+}
 ~~~
 
 If at any point during this process you had an error you could not resolve, move on to the next section. If the site was rendered fine, copy the url from your terminal log and paste it into your browser of choice (I recommend Firefox). This url usually looks something like this `http://127.0.0.1:4000/ed`. At this point you should be looking at your very own working version of Ed:

@@ -4,11 +4,17 @@ title: A Raisin in the Sun
 author: Lorraine Hansberry
 source: "Hansberry, Lorraine, and Robert Nemiroff. A Raisin in the Sun. Rep Rei edition. New York: Vintage, 2004. Print."
 
+julia: "a+b=c
+adsf"
+
 ---
 
 <p class="citation"> by {{ page.author }}</p>
 
 (excerpt)
+
+    {{ page.julia }}
+
 
 MAMA: Son—how come you talk so much 'bout money?
 

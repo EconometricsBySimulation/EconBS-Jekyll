@@ -1,4 +1,4 @@
-# Ed: A Jekyll Theme for Minimal Editions
+# EconBS-Jekyll
 
 [![Build Status](https://travis-ci.org/elotroalex/ed.svg?branch=gh-pages)](https://travis-ci.org/elotroalex/ed)
 
@@ -8,11 +8,6 @@
 
 
 ## Introduction
-
-Launch jekyll
---- bash
-$ bundle exec jekyll serve 
----
 
 Ed is a [Jekyll](https://jekyllrb.com/) theme designed for textual editors based on [minimal computing](http://go-dh.github.io/mincomp/) principles, and focused on legibility, durability, ease and flexibility.
 

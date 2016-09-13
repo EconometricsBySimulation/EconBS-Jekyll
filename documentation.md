@@ -20,6 +20,25 @@ Launch jekyll
 $ bundle exec jekyll serve 
 ~~~
 
+Launch jekyll independent 
+
+~~~ bash
+$ bundle exec jekyll serve detach 
+~~~
+
+Git
+~~~ bash
+# Add new files to git
+$ git add *
+# Save changes
+$ git commit -m "Commit message"
+~~~
+
+Send to Github
+~~~ bash
+$ git remote add github https://github.com/EconometricsBySimulation/EconBS-Jekyll.git
+$ git push -u github master
+~~~
 
 ## Prerequisites
 
